@@ -33,8 +33,8 @@
                 <img src="gambar/puppy.jpg" class="card-img-top" alt="puppy">
                 <div class="card-body">
                     <h5 class="card-title">Puppy</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                    <!-- <p class="card-text"></p> -->
+                    <a href="page1" class="btn btn-primary">Page1</a>
                 </div>
                 </div>
             </div>
