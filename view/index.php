@@ -18,10 +18,10 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
         <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-        <a class="nav-item nav-link" href="view/page1">Page1</a>
-        <a class="nav-item nav-link" href="view/page2">Page2</a>
-        <a class="nav-item nav-link" href="view/page3">Page3</a>
-        <a class="nav-item nav-link" href="view/page4">Page4</a>
+        <a class="nav-item nav-link" href="page1.php">Page1</a>
+        <a class="nav-item nav-link" href="page2.php">Page2</a>
+        <a class="nav-item nav-link" href="page3.php">Page3</a>
+        <a class="nav-item nav-link" href="page4.php">Page4</a>
         </div>
     </div>
     </nav>
@@ -34,7 +34,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Puppy</h5>
                     <!-- <p class="card-text"></p> -->
-                    <a href="page1" class="btn btn-primary">Page1</a>
+                    <a href="page1.php" class="btn btn-primary">Page1</a>
                 </div>
                 </div>
             </div>
